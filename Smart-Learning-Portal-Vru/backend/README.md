@@ -1,6 +1,6 @@
-# Learning Management System (LMS) Backend
+# Smart Learning Portal (SLP) Backend
 
-Welcome to the Learning Management System (LMS) backend repository! This open-source project aims to provide a robust backend for managing courses, educational content, and student interactions.
+Welcome to the Smart Learning Portal (SLP) backend repository! This open-source project aims to provide a robust backend for managing courses, educational content, and student interactions.
 
 ## Features
 
