@@ -1,8 +1,8 @@
 [![atl-text-8](https://img.shields.io/badge/Version-4.2.7-blueviolet?logo=Django&style=flat)](https://www.djangoproject.com/) [![atl-text-1](https://img.shields.io/badge/Version-18-blue?logo=React&style=flat)](https://react.dev/) [![atl-text-2](https://img.shields.io/badge/Version-3.10-red?logo=Python&style=flat)](https://www.python.org/) ![atl-text-6](https://img.shields.io/badge/license-GPL-lightgrey) ![atl-text-7](https://img.shields.io/badge/coverage-83-green) [![LMS Build](https://github.com/DevStrikerTech/Learning-Management-System/actions/workflows/backend_build.yml/badge.svg)](https://github.com/DevStrikerTech/Learning-Management-System/actions/workflows/backend_build.yml)
 
-# Learning Management System (LMS)
+# Smart Learning Portal (SLP)
 
-The Learning Management System (LMS) is a web application that facilitates online learning, managing courses, and student engagement. It combines the power of **Django** for backend development and **React.js** for frontend user interfaces.
+The Smart Learning Portal (SLP) is a web application that facilitates online learning, managing courses, and student engagement. It combines the power of **Django** for backend development and **React.js** for frontend user interfaces.
 
 ## Features
 
@@ -37,7 +37,7 @@ The Learning Management System (LMS) is a web application that facilitates onlin
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/DevStrikerTech/Learning-Management-System.git
+   git clone  https://github.com/Vrush-coder/SmartLearningPortal.git
    ```
 
 2. **Backend Setup**:
